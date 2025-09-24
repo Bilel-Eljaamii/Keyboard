@@ -33,8 +33,11 @@ Fossify Keyboard is fully open-source, providing you with transparency and secur
 Experience typing like never before – efficient, personalized, and secure. Download Fossify Keyboard now and elevate your typing experience.
 
 ➡️ Explore more Fossify apps: <https://www.fossify.org>
+
 ➡️ Open-Source Code: <https://www.github.com/FossifyOrg>
+
 ➡️ Join the community on Reddit: <https://www.reddit.com/r/Fossify>
+
 ➡️ Connect on Telegram: <https://t.me/Fossify>
 
 <div align="center">
