@@ -282,6 +282,7 @@ fun Context.getKeyboardLanguagesRadioItems(): ArrayList<RadioItem> {
 fun Context.getKeyboardLanguageText(language: Int): String {
     return when (language) {
         LANGUAGE_ARABIC -> getString(R.string.translation_arabic)
+        LANGUAGE_ARABIC_TN -> "${getString(R.string.translation_arabic)} (Tunisia)"
         LANGUAGE_BELARUSIAN_CYRL -> "${getString(R.string.translation_belarusian)} (Cyrillic)"
         LANGUAGE_BELARUSIAN_LATN -> "${getString(R.string.translation_belarusian)} (Latin)"
         LANGUAGE_BENGALI -> getString(R.string.translation_bengali)

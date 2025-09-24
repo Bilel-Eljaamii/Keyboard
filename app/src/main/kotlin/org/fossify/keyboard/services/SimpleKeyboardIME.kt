@@ -444,6 +444,7 @@ class SimpleKeyboardIME : InputMethodService(), OnKeyboardActionListener, Shared
     private fun getKeyboardLayoutXML(): Int {
         return when (baseContext.config.keyboardLanguage) {
             LANGUAGE_ARABIC -> R.xml.keys_letters_arabic
+            LANGUAGE_ARABIC_TN -> R.xml.keys_letters_arabic_tn
             LANGUAGE_BELARUSIAN_CYRL -> R.xml.keys_letters_belarusian_cyrl
             LANGUAGE_BELARUSIAN_LATN -> R.xml.keys_letters_belarusian_latn
             LANGUAGE_BENGALI -> R.xml.keys_letters_bengali
