@@ -1,5 +1,13 @@
 # Fossify Keyboard
 
+[![Website](https://img.shields.io/badge/Website-Fossify.org-blue?style=for-the-badge)](https://www.fossify.org)
+[![GitHub](https://img.shields.io/badge/GitHub-FossifyOrg-green?style=for-the-badge&logo=github)](https://www.github.com/FossifyOrg)
+[![Reddit](https://img.shields.io/badge/Reddit-r%2FFossify-orange?style=for-the-badge&logo=reddit)](https://www.reddit.com/r/Fossify)
+[![Telegram](https://img.shields.io/badge/Telegram-Fossify-blue?style=for-the-badge&logo=telegram)](https://t.me/Fossify)
+
+[![Release](https://img.shields.io/github/v/release/FossifyOrg/Keyboard?style=for-the-badge)](https://github.com/FossifyOrg/Keyboard/releases)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
+
 <img alt="Logo" src="graphics/icon.webp" width="120" />
 
 <a href="https://play.google.com/store/apps/details?id=org.fossify.keyboard"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=80/></a> <a href="https://f-droid.org/packages/org.fossify.keyboard/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/></a> <a href="https://apt.izzysoft.de/fdroid/index/apk/org.fossify.keyboard"><img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" alt="Get it on IzzyOnDroid" height=80/></a>
@@ -31,14 +39,6 @@ Personalize your keyboard with customizable colors. Fossify Keyboard allows you 
 Fossify Keyboard is fully open-source, providing you with transparency and security. You have access to the source code for audits, ensuring a trustworthy and reliable typing tool.
 
 Experience typing like never before – efficient, personalized, and secure. Download Fossify Keyboard now and elevate your typing experience.
-
-➡️ Explore more Fossify apps: <https://www.fossify.org>
-
-➡️ Open-Source Code: <https://www.github.com/FossifyOrg>
-
-➡️ Join the community on Reddit: <https://www.reddit.com/r/Fossify>
-
-➡️ Connect on Telegram: <https://t.me/Fossify>
 
 <div align="center">
 <img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png" width="30%">
